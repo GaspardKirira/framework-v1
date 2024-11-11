@@ -1,8 +1,8 @@
 {
-    "name": "softadastra/php-core-mvc",
+    "name": "softadastra/softadastra-php-mvc",
     "autoload": {
         "psr-4": {
-            "Softadastra\\PhpCoreMvc\\": "src/"
+            "Softadastra\\softdastraPhpMvc\\": "src/"
         }
     },
     "authors": [
