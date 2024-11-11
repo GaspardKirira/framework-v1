@@ -1,0 +1,15 @@
+{
+    "name": "softadastra/php-core-mvc",
+    "autoload": {
+        "psr-4": {
+            "Softadastra\\PhpCoreMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gaspard Kirira",
+            "email": "gaspardkirira9@gmail.com"
+        }
+    ],
+    "require": {}
+}
